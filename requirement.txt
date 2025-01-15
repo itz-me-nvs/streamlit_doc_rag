@@ -1,0 +1,13 @@
+langchain
+langchain-huggingface
+transformers
+torch
+faiss-cpu  # Or faiss-gpu if you want GPU support
+langchain_community
+accelerate>=0.26.0
+langchain_ollama
+streamlit
+pypdf
+chromadb
+lark
+langchain-groq
