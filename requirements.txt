@@ -11,3 +11,4 @@ pypdf
 chromadb
 lark
 langchain-groq
+pysqlite3-binary #
