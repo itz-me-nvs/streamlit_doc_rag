@@ -3,7 +3,7 @@
 A powerful and interactive web application that answers user queries based solely on the uploaded documents. This app uses cutting-edge NLP techniques to retrieve and process information, ensuring accurate, context-driven responses tailored to your data. Built with Streamlit, LangChain, and HuggingFace, it allows seamless integration of your documents for a custom question-answering experience.
 
 # Live Playground
-Test the chatbot's accuracy by uploading and asking questions using this link: [click here](https://workmate-doc-rag.streamlit.app/)
+Feel free to explore my Streamlit web application built for retrieval-augmented generation (RAG): [click here](https://workmate-doc-rag.streamlit.app/)
 
 ## Features
 - Upload PDF documents for analysis.
